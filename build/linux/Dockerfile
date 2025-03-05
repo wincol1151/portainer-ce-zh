@@ -1,4 +1,4 @@
-FROM portainer/base
+FROM https://github.com/BioPortainer/portainer-base
 
 COPY dist /
 
